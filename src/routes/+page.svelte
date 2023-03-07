@@ -5,6 +5,7 @@
 <div class="flex-col items-center justify-center py-4 px-4">
 	<h1 class="text-4xl font-bold mt-4">View Transitions API</h1>
 
+	<h2 class="mt-8 text-xl">Inspired by:</h2>
 	<p class="mt-4 text-xl">Jake Archibald</p>
 	<a href="https://developer.chrome.com/docs/web-platform/view-transitions/" class="underline"
 		>Podcast Dircetory</a
@@ -36,7 +37,7 @@
 		class="underline block">Delightful UI Animations With Shared Element Transitions API (Part 2)</a
 	>
 
-	<p class="mt-4 text-xl">
+	<p class="mt-8 text-lg">
 		Based on the
 		<a
 			href="https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API"
