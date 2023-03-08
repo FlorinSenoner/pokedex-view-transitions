@@ -78,18 +78,13 @@
 </div>
 
 <style>
-	:root {
-		--min-width: 300px;
-		--max-width: 800px;
-	}
-
 	.pokedex {
 		position: relative;
-		container: pokedex / block-size;
+		container: pokedex / inline-size;
 		resize: horizontal;
 		overflow: hidden;
-		min-width: var(--min-width);
-		max-width: var(--max-width);
+		min-width: 300px;
+		max-width: 100%;
 		height: 600px;
 		display: flex;
 	}
